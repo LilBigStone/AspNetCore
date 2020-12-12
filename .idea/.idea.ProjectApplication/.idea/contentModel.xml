@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\maksi\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\maksi\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ProjectApplication.-1638438564.00" t="ExcludeRecursive" />
+    <e p="C:\Users\maksi\source\repos\ProjectApplication" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProjectApplication" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="Areas" t="Include">
+          <e p="Identity" t="Include">
+            <e p="IdentityHostingStartup.cs" t="Include" />
+            <e p="Pages" t="Include">
+              <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+              <e p="_ViewImports.cshtml" t="Include" />
+              <e p="_ViewStart.cshtml" t="Include" />
+              <e p="Account" t="Include">
+                <e p="_StatusMessage.cshtml" t="Include" />
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="AccessDenied.cshtml" t="Include" />
+                <e p="AccessDenied.cshtml.cs" t="Include" />
+                <e p="ConfirmEmail.cshtml" t="Include" />
+                <e p="ConfirmEmail.cshtml.cs" t="Include" />
+                <e p="ConfirmEmailChange.cshtml" t="Include" />
+                <e p="ConfirmEmailChange.cshtml.cs" t="Include" />
+                <e p="ExternalLogin.cshtml" t="Include" />
+                <e p="ExternalLogin.cshtml.cs" t="Include" />
+                <e p="ForgotPassword.cshtml" t="Include" />
+                <e p="ForgotPassword.cshtml.cs" t="Include" />
+                <e p="ForgotPasswordConfirmation.cshtml" t="Include" />
+                <e p="ForgotPasswordConfirmation.cshtml.cs" t="Include" />
+                <e p="Lockout.cshtml" t="Include" />
+                <e p="Lockout.cshtml.cs" t="Include" />
+                <e p="Login.cshtml" t="Include" />
+                <e p="Login.cshtml.cs" t="Include" />
+                <e p="LoginWith2fa.cshtml" t="Include" />
+                <e p="LoginWith2fa.cshtml.cs" t="Include" />
+                <e p="Logout.cshtml" t="Include" />
+                <e p="Logout.cshtml.cs" t="Include" />
+                <e p="Manage" t="Include">
+                  <e p="_ManageNav.cshtml" t="Include" />
+                  <e p="_ViewImports.cshtml" t="Include" />
+                  <e p="ManageNavPages.cs" t="Include" />
+                </e>
+                <e p="Register.cshtml" t="Include" />
+                <e p="Register.cshtml.cs" t="Include" />
+                <e p="RegisterConfirmation.cshtml" t="Include" />
+                <e p="RegisterConfirmation.cshtml.cs" t="Include" />
+                <e p="ResetPassword.cshtml" t="Include" />
+                <e p="ResetPassword.cshtml.cs" t="Include" />
+                <e p="ResetPasswordConfirmation.cshtml" t="Include" />
+                <e p="ResetPasswordConfirmation.cshtml.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+          <e p="MilkController.cs" t="Include" />
+          <e p="OrderController.cs" t="Include" />
+          <e p="ShopCartController.cs" t="Include" />
+        </e>
+        <e p="Data" t="Include">
+          <e p="appDBcontent.cs" t="Include" />
+          <e p="DbObjects.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="IAllMilks.cs" t="Include" />
+            <e p="IAllOrders.cs" t="Include" />
+            <e p="IBeerCategory.cs" t="Include" />
+          </e>
+          <e p="Migrations" t="Include" />
+          <e p="mocks" t="Include">
+            <e p="MockCategory.cs" t="Include" />
+            <e p="MockMilks.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include" />
+          <e p="Repository" t="Include">
+            <e p="CarRepository.cs" t="Include" />
+            <e p="CategoryRepository.cs" t="Include" />
+            <e p="Ordersrepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="dbsettings.json" t="Include" />
+        <e p="Hub" t="Include">
+          <e p="ChatHub.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20201211161312_AddPerson.cs" t="Include" />
+          <e p="20201211161312_AddPerson.Designer.cs" t="Include" />
+          <e p="20201211163802_AddPerson1.cs" t="Include" />
+          <e p="20201211163802_AddPerson1.Designer.cs" t="Include" />
+          <e p="20201211165433_AddPerson2.cs" t="Include" />
+          <e p="20201211165433_AddPerson2.Designer.cs" t="Include" />
+          <e p="20201211165943_AddComment.cs" t="Include" />
+          <e p="20201211165943_AddComment.Designer.cs" t="Include" />
+          <e p="20201211185756_initial.cs" t="Include" />
+          <e p="20201211185756_initial.Designer.cs" t="Include" />
+          <e p="appDBcontentModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Category.cs" t="Include" />
+          <e p="Comment.cs" t="Include" />
+          <e p="ErrorViewModel.cs" t="Include" />
+          <e p="MilkProd.cs" t="Include" />
+          <e p="Order.cs" t="Include" />
+          <e p="OrderDetail.cs" t="Include" />
+          <e p="Role.cs" t="Include" />
+          <e p="ShopCart.cs" t="Include" />
+          <e p="ShopFav.cs" t="Include" />
+          <e p="UserModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ProjectApplication.AssemblyInfo.cs" t="Include" />
+              <e p="ProjectApplication.RazorAssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="ProjectApplication.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+          <e p="serviceDependencies.json" t="Include" />
+          <e p="serviceDependencies.local.json" t="Include" />
+        </e>
+        <e p="ScaffoldingReadMe.txt" t="Include" />
+        <e p="Services" t="Include">
+          <e p="EmailSender.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="ViewModels" t="Include">
+          <e p="HomeViewModel.cs" t="Include" />
+          <e p="LoginViewModel.cs" t="Include" />
+          <e p="MilksListViewModel.cs" t="Include" />
+          <e p="RegistrationViewModel.cs" t="Include" />
+          <e p="ShopCartViewModel.cs" t="Include" />
+        </e>
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Account" t="Include">
+            <e p="Profile.cshtml" t="Include" />
+          </e>
+          <e p="Home" t="Include">
+            <e p="Error.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Privacy.cshtml" t="Include" />
+            <e p="Production.cshtml" t="Include" />
+          </e>
+          <e p="Milk" t="Include">
+            <e p="DetailPage.cshtml" t="Include" />
+            <e p="List.cshtml" t="Include" />
+          </e>
+          <e p="Order" t="Include">
+            <e p="Chekout.cshtml" t="Include" />
+            <e p="Complete.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="_LoginPartial.cshtml" t="Include" />
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+            <e p="AllMilks.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="ShopCart" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="test.html" t="Include" />
+        </e>
+        <e p="wwwroot" t="Include">
+          <e p="css" t="Include">
+            <e p="animate.css" t="Include" />
+            <e p="bootstrap-grid.css" t="Include" />
+            <e p="bootstrap-grid.css.map" t="Include" />
+            <e p="bootstrap-grid.min.css" t="Include" />
+            <e p="bootstrap-grid.min.css.map" t="Include" />
+            <e p="bootstrap-reboot.css" t="Include" />
+            <e p="bootstrap-reboot.css.map" t="Include" />
+            <e p="bootstrap-reboot.min.css" t="Include" />
+            <e p="bootstrap-reboot.min.css.map" t="Include" />
+            <e p="bootstrap.css" t="Include" />
+            <e p="bootstrap.css.map" t="Include" />
+            <e p="bootstrap.min.css" t="Include" />
+            <e p="bootstrap.min.css.map" t="Include" />
+            <e p="flaticon.css" t="Include" />
+            <e p="font-awesome.min.css" t="Include" />
+            <e p="jquery-ui.css" t="Include" />
+            <e p="layout.css" t="Include" />
+            <e p="magnific-popup.css" t="Include" />
+            <e p="main.css" t="Include" />
+            <e p="nice-select.css" t="Include" />
+            <e p="nicepage.css" t="Include" />
+            <e p="owl.carousel.min.css" t="Include" />
+            <e p="reset.css" t="Include" />
+            <e p="site.css" t="Include" />
+            <e p="slicknav.css" t="Include" />
+            <e p="style.css" t="Include" />
+            <e p="style.map" t="Include" />
+            <e p="theme-default.css" t="Include" />
+            <e p="theme-default.map" t="Include" />
+            <e p="themify-icons.css" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="img" t="Include">
+            <e p="belaya1.jpg" t="Include" />
+            <e p="bio-tvorog2.jpg" t="Include" />
+            <e p="biokefir9.jpg" t="Include" />
+            <e p="ButterLogo.PNG" t="Include" />
+            <e p="CheeseLogo.PNG" t="Include" />
+            <e p="cikoriy1910229.jpg" t="Include" />
+            <e p="det_mol2.jpg" t="Include" />
+            <e p="egorka75.jpg" t="Include" />
+            <e p="egorka85.jpg" t="Include" />
+            <e p="frutafit9.jpg" t="Include" />
+            <e p="goland.jpg" t="Include" />
+            <e p="groupcond3.jpg" t="Include" />
+            <e p="gruver.jpg" t="Include" />
+            <e p="halal5.jpg" t="Include" />
+            <e p="iris6.jpg" t="Include" />
+            <e p="kakao1910227.jpg" t="Include" />
+            <e p="kap34.jpg" t="Include" />
+            <e p="kidsMilkLogo.PNG" t="Include" />
+            <e p="kofe1910222.jpg" t="Include" />
+            <e p="kokt7.jpg" t="Include" />
+            <e p="konc9.jpg" t="Include" />
+            <e p="laktuloza3.jpg" t="Include" />
+            <e p="Logo.jpg" t="Include" />
+            <e p="MilkLogo.PNG" t="Include" />
+            <e p="oil67.jpg" t="Include" />
+            <e p="oil725.jpg" t="Include" />
+            <e p="oil825.jpg" t="Include" />
+            <e p="oreh3.jpg" t="Include" />
+            <e p="petbut9.jpg" t="Include" />
+            <e p="raub.jpg" t="Include" />
+            <e p="rogachev.jpg" t="Include" />
+            <e p="sgush.jpg" t="Include" />
+            <e p="sgush25.jpg" t="Include" />
+            <e p="sgushLogo.PNG" t="Include" />
+            <e p="slivki1910226.jpg" t="Include" />
+            <e p="ster21.jpg" t="Include" />
+            <e p="TBA1.jpg" t="Include" />
+            <e p="van7.jpg" t="Include" />
+            <e p="vesovoe8.jpg" t="Include" />
+          </e>
+          <e p="js" t="Include">
+            <e p="ajax-form.js" t="Include" />
+            <e p="bootstrap.bundle.js" t="Include" />
+            <e p="bootstrap.bundle.js.map" t="Include" />
+            <e p="bootstrap.bundle.min.js" t="Include" />
+            <e p="bootstrap.bundle.min.js.map" t="Include" />
+            <e p="bootstrap.js" t="Include" />
+            <e p="bootstrap.js.map" t="Include" />
+            <e p="bootstrap.min.js" t="Include" />
+            <e p="bootstrap.min.js.map" t="Include" />
+            <e p="contact.js" t="Include" />
+            <e p="cufon-replace.js" t="Include" />
+            <e p="cufon-yui.js" t="Include" />
+            <e p="html5.js" t="Include" />
+            <e p="imagesloaded.pkgd.min.js" t="Include" />
+            <e p="isotope.pkgd.min.js" t="Include" />
+            <e p="jquery-1.4.2.min.js" t="Include" />
+            <e p="jquery.ajaxchimp.min.js" t="Include" />
+            <e p="jquery.counterup.min.js" t="Include" />
+            <e p="jquery.form.js" t="Include" />
+            <e p="jquery.js" t="Include" />
+            <e p="jquery.magnific-popup.min.js" t="Include" />
+            <e p="jquery.scrollUp.min.js" t="Include" />
+            <e p="jquery.slicknav.min.js" t="Include" />
+            <e p="jquery.validate.min.js" t="Include" />
+            <e p="mail-script.js" t="Include" />
+            <e p="main.js" t="Include" />
+            <e p="messageBuilder.js" t="Include" />
+            <e p="nice-select.min.js" t="Include" />
+            <e p="nicepage.js" t="Include" />
+            <e p="OrigGarmnd_BT_400.font.js" t="Include" />
+            <e p="owl.carousel.min.js" t="Include" />
+            <e p="plugins.js" t="Include" />
+            <e p="popper.min.js" t="Include" />
+            <e p="script.js" t="Include" />
+            <e p="scrollIt.js" t="Include" />
+            <e p="signalr.js" t="Include" />
+            <e p="signalr.min.js" t="Include" />
+            <e p="site.js" t="Include" />
+            <e p="vendor" t="Include">
+              <e p="jquery-1.12.4.min.js" t="Include" />
+              <e p="modernizr-3.5.0.min.js" t="Include" />
+            </e>
+            <e p="waypoints.min.js" t="Include" />
+            <e p="wow.min.js" t="Include" />
+          </e>
+          <e p="lib" t="Include">
+            <e p="bootstrap" t="Include">
+              <e p="dist" t="Include">
+                <e p="css" t="Include">
+                  <e p="bootstrap-grid.css" t="Include" />
+                  <e p="bootstrap-grid.css.map" t="Include" />
+                  <e p="bootstrap-grid.min.css" t="Include" />
+                  <e p="bootstrap-grid.min.css.map" t="Include" />
+                  <e p="bootstrap-reboot.css" t="Include" />
+                  <e p="bootstrap-reboot.css.map" t="Include" />
+                  <e p="bootstrap-reboot.min.css" t="Include" />
+                  <e p="bootstrap-reboot.min.css.map" t="Include" />
+                  <e p="bootstrap.css" t="Include" />
+                  <e p="bootstrap.css.map" t="Include" />
+                  <e p="bootstrap.min.css" t="Include" />
+                  <e p="bootstrap.min.css.map" t="Include" />
+                </e>
+                <e p="js" t="Include">
+                  <e p="bootstrap.bundle.js" t="Include" />
+                  <e p="bootstrap.bundle.js.map" t="Include" />
+                  <e p="bootstrap.bundle.min.js" t="Include" />
+                  <e p="bootstrap.bundle.min.js.map" t="Include" />
+                  <e p="bootstrap.js" t="Include" />
+                  <e p="bootstrap.js.map" t="Include" />
+                  <e p="bootstrap.min.js" t="Include" />
+                  <e p="bootstrap.min.js.map" t="Include" />
+                </e>
+              </e>
+              <e p="LICENSE" t="Include" />
+            </e>
+            <e p="jquery" t="Include">
+              <e p="dist" t="Include">
+                <e p="jquery.js" t="Include" />
+                <e p="jquery.min.js" t="Include" />
+                <e p="jquery.min.map" t="Include" />
+              </e>
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+            <e p="jquery-validation" t="Include">
+              <e p="dist" t="Include">
+                <e p="additional-methods.js" t="Include" />
+                <e p="additional-methods.min.js" t="Include" />
+                <e p="jquery.validate.js" t="Include" />
+                <e p="jquery.validate.min.js" t="Include" />
+              </e>
+              <e p="LICENSE.md" t="Include" />
+            </e>
+            <e p="jquery-validation-unobtrusive" t="Include">
+              <e p="jquery.validate.unobtrusive.js" t="Include" />
+              <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+              <e p="LICENSE.txt" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="ProjectApplication.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

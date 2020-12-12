@@ -1,0 +1,14 @@
+﻿@model MilksListViewModel
+<div>
+    <div class="row-cols-1 center-block">
+        <h1 align="center">@Model.currCategory</h1>
+    </div>
+    <div class="row justify-content-center">
+        @{
+            foreach (MilkProd milk in Model.allMilks)
+            {
+                @Html.Partial("AllMilks", milk)
+            }
+        }
+    </div>
+</div>

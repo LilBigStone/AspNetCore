@@ -1,0 +1,42 @@
+﻿@model MilkProd
+
+<link href="~/css/style.css"/>
+<div class="vm-col-3 vertical-separator box ml-4" style="margin: 40px">
+    <div class="align-items-center">
+        <a asp-controller="Milk" asp-action="DetailPage" asp-route-id="@Model.id">
+            <img src="@Model.img" width="300" height="300" class="browseProductImage">
+            <p class="truncate-text">@Model.name</p>
+        </a>
+    </div>
+    <div class ="center">
+        <a class="btn btn-primary" asp-controller="ShopCart" asp-action="addToCart" asp-route-id="@Model.id">
+                   Добавить в корзину
+        </a>
+    </div>
+</div>
+<style>
+    .box {
+        border-radius: 10px; /* Радиус границ*/
+        box-shadow: 0 0 15px #A9A9A9; /* Размер и цвет тени блока*/
+    }
+</style>
+<style>
+    .truncate-text {
+        padding: 1rem;
+        width: 200px;
+        height: 80px;
+        overflow: hidden;
+        position: relative;
+    }
+    .center {
+        text-align: center;
+    }
+        .truncate-text:after {
+            content: "";
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 40px;
+            background: linear-gradient(180deg, transparent,#ffffff 50%);}
+</style>
